@@ -3,13 +3,12 @@
 /**
 * main - Entry point
 * Return: 0 if succes
-**/
-
+*/
 int main(void)
 {
 	char c;
 
-	c = 'a'
+	c = 'a';
 	while (c <= 'z')
 	{
 		putchar(c);
