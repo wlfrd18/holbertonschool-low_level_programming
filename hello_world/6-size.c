@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * program that prints the size 
+ * program that prints the size
  * Return: Always 0 (Success)
  */
 int main(void)
