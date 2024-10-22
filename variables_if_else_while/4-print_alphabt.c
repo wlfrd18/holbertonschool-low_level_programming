@@ -8,11 +8,9 @@ int main(void)
 	char c;
 	for (c = 'a'; c <= 'z'; ++c)
 	{
-		if ((a != 'e') && (a != 'q'));
-			{
+		if ((c != 'e') && (c != 'q'))
 			putchar(c);
-			}
 	}
-	putchar(\n);
+	putchar('\n');
 	return (0)
 }
