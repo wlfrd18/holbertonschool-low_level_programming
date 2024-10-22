@@ -5,12 +5,13 @@
 */
 int main(void)
 {
-   int n;
+    int i;
 
-        for (n = '0'; n <= '9'; ++n)
-                printf("%i", n);
+    for (i = 0; i < 10; i++)
+    {
+        putchar(i + '0');
+    }
+    putchar('\n');
 
-        putchar('\n');
-
-        return (0);
+    return (0);
 }
