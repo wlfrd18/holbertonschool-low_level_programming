@@ -2,7 +2,7 @@
 /*
 *_islower - Entry point
 * function that checks for lowercase character
-* Return: 0 if succes
+* Return 1 if succes,  0 if iherwise
 */
 int _islower(int c)
 {
