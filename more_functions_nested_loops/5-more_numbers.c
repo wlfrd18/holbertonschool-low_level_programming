@@ -17,10 +17,14 @@ void more_numbers(void)
 		l = j % 10;
 		{
 			if ( j >= 0 && j <= 9)
+			{
 				_putchar(j + '0');
+			}
 			else
+			{
 				_putchar(k + '0');
 				_putchar(l + '0');
+			}
 		}
 		_putchar('\n');
 	}
