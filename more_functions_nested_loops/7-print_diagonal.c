@@ -4,6 +4,7 @@
 * @n: number of times of the character
 * Return: 0 always
 */
+
 void print_diagonal(int n)
 {
 	int i, j;
@@ -25,4 +26,3 @@ void print_diagonal(int n)
 	_putchar('\n');
 	}
 }
-
