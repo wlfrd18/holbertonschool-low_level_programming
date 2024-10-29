@@ -18,7 +18,7 @@ int main(void)
 		}
 		else if (i % 5 == 0)
 		{
-			ptintf("Buzz");
+			printf("Buzz");
 		}
 		else if ((i % 3 == 0) && (i % 5 == 0))
 		{
@@ -26,9 +26,8 @@ int main(void)
 		}
 		else
 		{
-			printf("%d, i")
+			printf("%i, i");
 		}
-²²²²}
 ²²²²if (i < 100)
 	{
 			printf(" ");
