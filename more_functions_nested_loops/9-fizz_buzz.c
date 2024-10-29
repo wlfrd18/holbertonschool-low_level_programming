@@ -26,15 +26,15 @@ int main(void)
 		}
 		else
 		{
-			printf("%i, i");
+			printf("%i", i);
 		}
-²²²²if (i < 100)
+	if (i < 100)
 	{
-			printf(" ");
+		printf(" ");
 	}
 	if (i == 100)
 	{
-			printf("\n");
+		printf("\n");
 	}
 
 }
