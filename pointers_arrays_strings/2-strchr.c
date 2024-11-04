@@ -1,9 +1,10 @@
 #include "main.h"
+#include <stdio.h>
 /**
 * _strchr - locates a charater in a string.
 * @s: pointer to a string.
 * @c: character to check.
-* Return: a pointer to c if its found, and NUll otherwisse.
+* Return: 0 if succes.
 */
 
 char *_strchr(char *s, char c)
