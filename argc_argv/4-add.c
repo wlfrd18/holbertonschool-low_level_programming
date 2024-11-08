@@ -3,7 +3,7 @@
 #include "main.h"
 /**
  * main - Entry Point
- * atoi: convert a string to an int
+ * atoi convert a string to an int
  * @argc: arguments
  * @argv: array pointing to arguments
  * Return: 0
