@@ -7,6 +7,7 @@
  * string_nconcat - Entry point.
  * @s1: first string.
  * @s2: second string.
+ * @n: first bytes of s2.
  * Return: NULL or a pointer.
 */
 
