@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
 		printf("Error\n");
 		exit(99);
 	}
-	res = operation(num1, num2)
+	res = operation(num1, num2);
 	printf("%d\n", res);
 
 	return (0);
